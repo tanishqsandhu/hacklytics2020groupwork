@@ -1,0 +1,666 @@
+,Country,Localite,Category,Value,Date
+15,Guinea,National,Cases,122,3/31/2014
+20,Guinea,National,Cases,127,4/1/2014
+33,Guinea,National,Cases,143,4/4/2014
+48,Guinea,National,Cases,151,4/7/2014
+50,Liberia,National,Cases,21,4/8/2014
+53,Liberia,National,Cases,22,4/9/2014
+56,Guinea,National,Cases,157,4/10/2014
+68,Liberia,National,Cases,25,4/10/2014
+79,Guinea,National,Cases,159,4/11/2014
+94,Liberia,National,Cases,26,4/13/2014
+99,Guinea,National,Cases,168,4/14/2014
+113,Guinea,National,Cases,197,4/16/2014
+128,Liberia,National,Cases,27,4/16/2014
+145,Guinea,National,Cases,203,4/17/2014
+148,Liberia,National,Cases,27,4/18/2014
+163,Guinea,National,Cases,208,4/20/2014
+166,Liberia,National,Cases,27,4/21/2014
+181,Guinea,National,Cases,218,4/23/2014
+196,Liberia,National,Cases,35,4/23/2014
+201,Liberia,National,Cases,35,4/24/2014
+216,Guinea,National,Cases,224,4/26/2014
+231,Guinea,National,Cases,226,5/1/2014
+238,Liberia,National,Cases,13,5/2/2014
+254,Guinea,National,Cases,231,5/3/2014
+269,Guinea,National,Cases,235,5/5/2014
+284,Guinea,National,Cases,236,5/7/2014
+290,Liberia,National,Cases,12,5/9/2014
+306,Guinea,National,Cases,233,5/10/2014
+321,Guinea,National,Cases,248,5/12/2014
+336,Guinea,National,Cases,258,5/23/2014
+363,Guinea,National,Cases,291,5/28/2014
+376,Sierra Leone,National,Cases,50,5/29/2014
+393,Guinea,National,Cases,328,6/1/2014
+412,Sierra Leone,National,Cases,79,6/1/2014
+418,Liberia,National,Cases,13,6/2/2014
+436,Guinea,National,Cases,344,6/3/2014
+457,Guinea,National,Cases,351,6/5/2014
+462,Sierra Leone,National,Cases,81,6/5/2014
+465,Sierra Leone,National,Cases,89,6/6/2014
+471,Liberia,National,Cases,14,6/7/2014
+477,Liberia,National,Cases,16,6/9/2014
+482,Liberia,National,Cases,30,6/11/2014
+490,Liberia,National,Cases,31,6/13/2014
+510,Guinea,National,Cases,398,6/16/2014
+521,Liberia,National,Cases,33,6/16/2014
+532,Sierra Leone,National,Cases,97,6/17/2014
+555,Guinea,National,Cases,390,6/18/2014
+566,Liberia,National,Cases,41,6/19/2014
+577,Sierra Leone,National,Cases,136,6/19/2014
+600,Guinea,National,Cases,390,6/20/2014
+611,Sierra Leone,National,Cases,158,6/20/2014
+624,Liberia,National,Cases,51,6/22/2014
+635,Liberia,National,Cases,70,6/26/2014
+656,Guinea,National,Cases,407,6/27/2014
+661,Guinea,National,Cases,413,6/30/2014
+664,Liberia,National,Cases,107,6/30/2014
+667,Sierra Leone,National,Cases,239,6/30/2014
+670,Guinea,National,Cases,412,7/2/2014
+673,Liberia,National,Cases,115,7/2/2014
+676,Sierra Leone,National,Cases,252,7/2/2014
+679,Guinea,National,Cases,408,7/6/2014
+682,Liberia,National,Cases,131,7/6/2014
+685,Sierra Leone,National,Cases,305,7/6/2014
+688,Guinea,National,Cases,409,7/8/2014
+691,Liberia,National,Cases,142,7/8/2014
+694,Sierra Leone,National,Cases,337,7/8/2014
+697,Guinea,National,Cases,406,7/12/2014
+700,Liberia,National,Cases,172,7/12/2014
+703,Sierra Leone,National,Cases,386,7/12/2014
+706,Guinea,National,Cases,411,7/14/2014
+709,Liberia,National,Cases,174,7/14/2014
+712,Sierra Leone,National,Cases,397,7/14/2014
+715,Guinea,National,Cases,410,7/17/2014
+718,Liberia,National,Cases,196,7/17/2014
+721,Sierra Leone,National,Cases,442,7/17/2014
+724,Guinea,National,Cases,415,7/20/2014
+727,Liberia,National,Cases,224,7/20/2014
+730,Sierra Leone,National,Cases,454,7/20/2014
+733,Guinea,National,Cases,427,7/23/2014
+736,Liberia,National,Cases,249,7/23/2014
+739,Sierra Leone,National,Cases,525,7/23/2014
+742,Guinea,National,Cases,460,7/27/2014
+745,Liberia,National,Cases,329,7/27/2014
+749,Sierra Leone,National,Cases,533,7/27/2014
+752,Guinea,National,Cases,485,8/1/2014
+755,Liberia,National,Cases,468,8/1/2014
+758,Nigeria,National,Cases,4,8/1/2014
+761,Sierra Leone,National,Cases,646,8/1/2014
+764,Guinea,National,Cases,495,8/4/2014
+767,Liberia,National,Cases,516,8/4/2014
+770,Nigeria,National,Cases,9,8/4/2014
+773,Sierra Leone,National,Cases,691,8/4/2014
+776,Guinea,National,Cases,495,8/6/2014
+779,Liberia,National,Cases,554,8/6/2014
+782,Nigeria,National,Cases,13,8/6/2014
+785,Sierra Leone,National,Cases,717,8/6/2014
+788,Guinea,National,Cases,506,8/9/2014
+791,Liberia,National,Cases,599,8/9/2014
+794,Nigeria,National,Cases,13,8/9/2014
+797,Sierra Leone,National,Cases,730,8/9/2014
+827,Guinea,National,Cases,523,8/14/2014
+869,Liberia,National,Cases,810,8/14/2014
+887,Nigeria,National,Cases,12,8/15/2014
+916,Sierra Leone,National,Cases,830,8/15/2014
+961,Guinea,National,Cases,543,8/16/2014
+1004,Liberia,National,Cases,862,8/17/2014
+1017,Nigeria,National,Cases,15,8/17/2014
+1046,Sierra Leone,National,Cases,850,8/17/2014
+1090,Liberia,National,Cases,964,8/18/2014
+1128,Guinea,National,Cases,599,8/19/2014
+1171,Liberia,National,Cases,1024,8/19/2014
+1184,Nigeria,National,Cases,20,8/19/2014
+1214,Sierra Leone,National,Cases,910,8/19/2014
+1269,Guinea,National,Cases,607,8/20/2014
+1326,Liberia,National,Cases,1074,8/20/2014
+1380,Sierra Leone,National,Cases,902,8/20/2014
+1410,Nigeria,National,Cases,15,8/21/2014
+1420,Nigeria,National,Cases,18,8/22/2014
+1471,Guinea,National,Cases,628,8/23/2014
+1506,Nigeria,National,Cases,19,8/23/2014
+1556,Sierra Leone,National,Cases,994,8/23/2014
+1626,Liberia,National,Cases,"1,378",8/24/2014
+1696,Sierra Leone,National,Cases,"1,025",8/24/2014
+1771,Guinea,National,Cases,646,8/25/2014
+1841,Liberia,National,Cases,1395,8/25/2014
+1871,Nigeria,National,Cases,15,8/25/2014
+1921,Sierra Leone,National,Cases,1050,8/25/2014
+1996,Guinea,National,Cases,661,8/26/2014
+2066,Liberia,National,Cases,"1,463",8/26/2014
+2136,Sierra Leone,National,Cases,"1,057",8/26/2014
+2211,Guinea,National,Cases,663,8/27/2014
+2246,Nigeria,National,Cases,19,8/27/2014
+2301,Guinea,National,Cases,690,8/28/2014
+2376,Liberia,National,Cases,"1,582",8/28/2014
+2406,Nigeria,National,Cases,19,8/28/2014
+2461,Sierra Leone,National,Cases,"1,117",8/28/2014
+2541,Guinea,National,Cases,707,8/29/2014
+2616,Liberia,National,Cases,"1,631",8/29/2014
+2643,Senegal,National,Cases,1,8/29/2014
+2695,Guinea,National,Cases,749,8/30/2014
+2770,Liberia,National,Cases,"1,673",8/30/2014
+2800,Nigeria,National,Cases,21,8/30/2014
+2865,Guinea,National,Cases,771,8/31/2014
+2940,Liberia,National,Cases,"1,690",8/31/2014
+3010,Sierra Leone,National,Cases,1216,8/31/2014
+3112,Guinea,National,Cases,790,9/1/2014
+3193,Liberia,National,Cases,1763,9/1/2014
+3223,Nigeria,National,Cases,22,9/1/2014
+3305,Guinea,National,Cases,812,9/2/2014
+3395,Liberia,National,Cases,1839,9/2/2014
+3479,Sierra Leone,National,Cases,1261,9/2/2014
+3587,Guinea,National,Cases,823,9/3/2014
+3677,Liberia,National,Cases,"1,863",9/3/2014
+3761,Sierra Leone,National,Cases,"1,292",9/3/2014
+3869,Guinea,National,Cases,826,9/4/2014
+3959,Liberia,National,Cases,1915,9/4/2014
+4061,Guinea,National,Cases,838,9/5/2014
+4151,Liberia,National,Cases,"1,968",9/5/2014
+4193,Senegal,National,Cases,1,9/5/2014
+4253,Sierra Leone,National,Cases,"1,361",9/5/2014
+4361,Guinea,National,Cases,862,9/6/2014
+4451,Liberia,National,Cases,2038,9/6/2014
+4486,Senegal,National,Cases,1,9/6/2014
+4546,Sierra Leone,National,Cases,"1,409",9/6/2014
+4654,Guinea,National,Cases,861,9/7/2014
+4744,Liberia,National,Cases,"2,073",9/7/2014
+4780,Nigeria,National,Cases,21,9/7/2014
+4804,Senegal,National,Cases,3,9/7/2014
+4870,Liberia,National,Cases,2184,9/8/2014
+4906,Senegal,National,Cases,2,9/8/2014
+4981,Guinea,National,Cases,885,9/9/2014
+5023,Senegal,National,Cases,1,9/9/2014
+5071,Sierra Leone,National,Cases,"1,478",9/9/2014
+5173,Guinea,National,Cases,899,9/10/2014
+5269,Liberia,National,Cases,2407,9/10/2014
+5305,Nigeria,National,Cases,21,9/10/2014
+5371,Sierra Leone,National,Cases,"1,509",9/10/2014
+5479,Guinea,National,Cases,909,9/11/2014
+5575,Liberia,National,Cases,2527,9/11/2014
+5659,Sierra Leone,National,Cases,"1,551",9/11/2014
+5773,Guinea,National,Cases,913,9/12/2014
+5815,Senegal,National,Cases,1,9/12/2014
+5875,Sierra Leone,National,Cases,"1,586",9/12/2014
+5989,Guinea,National,Cases,936,9/13/2014
+6031,Nigeria,National,Cases,21,9/13/2014
+6049,Senegal,National,Cases,1,9/13/2014
+6133,Guinea,National,Cases,942,9/14/2014
+6229,Liberia,National,Cases,"2,712",9/14/2014
+6445,Nigeria,National,Cases,21,9/15/2014
+6463,Senegal,National,Cases,1,9/15/2014
+6547,Guinea,National,Cases,964,9/16/2014
+6679,Nigeria,National,Cases,21,9/16/2014
+6697,Senegal,National,Cases,1,9/16/2014
+6811,Sierra Leone,National,Cases,1735,9/16/2014
+6812,Sierra Leone,National,Cases,"1,735",9/16/2014
+6961,Guinea,National,Cases,965,9/17/2014
+7099,Senegal,National,Cases,1,9/17/2014
+7159,Sierra Leone,National,Cases,"1,753",9/17/2014
+7201,Nigeria,National,Cases,20,9/18/2014
+7267,Sierra Leone,National,Cases,"1,791",9/18/2014
+7381,Guinea,National,Cases,989,9/19/2014
+7483,Liberia,National,Cases,"3,139",9/19/2014
+7519,Nigeria,National,Cases,20,9/19/2014
+7585,Sierra Leone,National,Cases,"1,813",9/19/2014
+7705,Guinea,National,Cases,"1,008",9/20/2014
+7807,Liberia,National,Cases,"3,074",9/20/2014
+7843,Nigeria,National,Cases,20,9/20/2014
+7861,Senegal,National,Cases,1,9/20/2014
+7921,Sierra Leone,National,Cases,1876,9/20/2014
+8041,Guinea,National,Cases,1022,9/21/2014
+8143,Liberia,National,Cases,3272,9/21/2014
+8179,Nigeria,National,Cases,20,9/21/2014
+8245,Sierra Leone,National,Cases,1940,9/21/2014
+8365,Guinea,National,Cases,"1,048",9/22/2014
+8467,Liberia,National,Cases,3362,9/22/2014
+8551,Sierra Leone,National,Cases,"1,967",9/22/2014
+8671,Guinea,National,Cases,"1,074",9/23/2014
+8773,Liberia,National,Cases,"3,450",9/23/2014
+8809,Nigeria,National,Cases,20,9/23/2014
+8875,Sierra Leone,National,Cases,"2,021",9/23/2014
+8917,Senegal,National,Cases,1,9/24/2014
+8977,Sierra Leone,National,Cases,"2,092",9/24/2014
+9103,Guinea,National,Cases,"1,103",9/25/2014
+9205,Liberia,National,Cases,"3,556",9/25/2014
+9241,Nigeria,National,Cases,20,9/25/2014
+9259,Senegal,National,Cases,1,9/25/2014
+9319,Sierra Leone,National,Cases,"2,120",9/25/2014
+9421,Liberia,National,Cases,"3,627",9/26/2014
+9505,Sierra Leone,National,Cases,"2,149",9/26/2014
+9607,Liberia,National,Cases,"3,664",9/27/2014
+9691,Sierra Leone,National,Cases,"2,208",9/27/2014
+9817,Guinea,National,Cases,"1,157",9/28/2014
+9919,Liberia,National,Cases,"3,688",9/28/2014
+10003,Sierra Leone,National,Cases,"2,317",9/28/2014
+10129,Guinea,National,Cases,"1,169",9/29/2014
+10231,Liberia,National,Cases,"3,778",9/29/2014
+10267,Nigeria,National,Cases,20,9/29/2014
+10285,Senegal,National,Cases,1,9/29/2014
+10345,Sierra Leone,National,Cases,"2,407",9/29/2014
+10477,Guinea,National,Cases,"1,179",9/30/2014
+10579,Liberia,National,Cases,"3,826",9/30/2014
+10615,Nigeria,National,Cases,20,9/30/2014
+10633,Senegal,National,Cases,1,9/30/2014
+10693,Sierra Leone,National,Cases,"2,437",9/30/2014
+10825,Guinea,National,Cases,"1,199",10/1/2014
+10927,Liberia,National,Cases,"3,890",10/1/2014
+11011,Sierra Leone,National,Cases,"2,480",10/1/2014
+11113,Liberia,National,Cases,"3,921",10/2/2014
+11209,Liberia,National,Cases,"3,879",10/3/2014
+11293,Sierra Leone,National,Cases,"2,572",10/3/2014
+11395,Liberia,National,Cases,"3,921",10/4/2014
+11479,Sierra Leone,National,Cases,"2,727",10/4/2014
+11581,Liberia,National,Cases,"3,949",10/5/2014
+11707,Guinea,National,Cases,"1,350",10/7/2014
+11845,Guinea,National,Cases,"1,383",10/8/2014
+11935,Sierra Leone,National,Cases,"2,950",10/8/2014
+12073,Guinea,National,Cases,"1,405",10/9/2014
+12175,Liberia,National,Cases,"4,190",10/9/2014
+12307,Guinea,National,Cases,"1,416",10/10/2014
+12376,Liberia,National,Cases,"4,209",10/10/2014
+12445,Sierra Leone,National,Cases,"3,062",10/10/2014
+12577,Guinea,National,Cases,"1,441",10/11/2014
+12646,Liberia,National,Cases,"4,249",10/11/2014
+12715,Sierra Leone,National,Cases,"3,187",10/11/2014
+12853,Guinea,National,Cases,"1,471",10/12/2014
+12922,Liberia,National,Cases,"4,255",10/12/2014
+12991,Sierra Leone,National,Cases,"3,252",10/12/2014
+13141,Guinea,National,Cases,"1,483",10/13/2014
+13210,Liberia,National,Cases,"4,262",10/13/2014
+13279,Sierra Leone,National,Cases,"3,296",10/13/2014
+13429,Guinea,National,Cases,"1,519",10/14/2014
+13519,Sierra Leone,National,Cases,"3,410",10/14/2014
+13586,Sierra Leone,National,Cases,"3,449",10/15/2014
+13715,Guinea,National,Cases,"1,528",10/15/2014
+13871,Guinea,National,Cases,"1,479",10/16/2014
+13973,Liberia,National,Cases,"4,440",10/16/2014
+14057,Sierra Leone,National,Cases,"3,508",10/16/2014
+14207,Guinea,National,Cases,"1,501",10/17/2014
+14309,Liberia,National,Cases,"4,607",10/17/2014
+14393,Sierra Leone,National,Cases,"3,560",10/17/2014
+14543,Guinea,National,Cases,"1,532",10/18/2014
+14645,Liberia,National,Cases,"4,665",10/18/2014
+14729,Sierra Leone,National,Cases,"3,624",10/18/2014
+14799,Guinea,National,Cases,"1,540",10/19/2014
+14848,Liberia,National,Cases,"4,693",10/19/2014
+14917,Sierra Leone,National,Cases,"3,706",10/19/2014
+14993,Guinea,National,Cases,"1,547",10/20/2014
+15042,Liberia,National,Cases,"4,744",10/20/2014
+15111,Sierra Leone,National,Cases,"3,786",10/20/2014
+15267,Guinea,National,Cases,"1,553",10/21/2014
+15336,Liberia,National,Cases,"4,772",10/21/2014
+15405,Sierra Leone,National,Cases,"3,841",10/21/2014
+15561,Guinea,National,Cases,"1,575",10/22/2014
+15663,Liberia,National,Cases,"6,166",10/22/2014
+15747,Sierra Leone,National,Cases,"3,896",10/22/2014
+15903,Guinea,National,Cases,"1,608",10/23/2014
+16005,Liberia,National,Cases,"6,248",10/23/2014
+16089,Sierra Leone,National,Cases,"3,963",10/23/2014
+16245,Guinea,National,Cases,"1,598",10/24/2014
+16347,Liberia,National,Cases,"6,253",10/24/2014
+16385,Mali,National,Cases,1,10/24/2014
+16443,Sierra Leone,National,Cases,"4,017",10/24/2014
+16599,Guinea,National,Cases,"1,612",10/25/2014
+16701,Liberia,National,Cases,"6,267",10/25/2014
+16743,Mali,National,Cases,1,10/25/2014
+16801,Sierra Leone,National,Cases,"4,130",10/25/2014
+16957,Guinea,National,Cases,"1,631",10/26/2014
+17005,Mali,National,Cases,1,10/26/2014
+17063,Sierra Leone,National,Cases,"4,200",10/26/2014
+17219,Guinea,National,Cases,"1,647",10/27/2014
+17321,Liberia,National,Cases,"6,239",10/27/2014
+17363,Mali,National,Cases,1,10/27/2014
+17421,Sierra Leone,National,Cases,"4,330",10/27/2014
+17577,Guinea,National,Cases,"1,661",10/28/2014
+17679,Liberia,National,Cases,"6,398",10/28/2014
+17727,Mali,National,Cases,1,10/28/2014
+17787,Sierra Leone,National,Cases,"4,392",10/28/2014
+17943,Guinea,National,Cases,"1,667",10/29/2014
+18045,Liberia,National,Cases,"6,454",10/29/2014
+18105,Mali,National,Cases,1,10/29/2014
+18237,Guinea,National,Cases,"1,675",10/30/2014
+18339,Liberia,National,Cases,"6,485",10/30/2014
+18423,Sierra Leone,National,Cases,"4,487",10/30/2014
+18579,Guinea,National,Cases,"1,688",10/31/2014
+18681,Liberia,National,Cases,"6,525",10/31/2014
+18765,Sierra Leone,National,Cases,"4,611",10/31/2014
+18921,Guinea,National,Cases,"1,700",11/1/2014
+19011,Sierra Leone,National,Cases,"4,686",11/1/2014
+19167,Guinea,National,Cases,"1,731",11/2/2014
+19269,Liberia,National,Cases,"6,524",11/2/2014
+19353,Sierra Leone,National,Cases,"4,759",11/2/2014
+19509,Guinea,National,Cases,"1,760",11/3/2014
+19611,Liberia,National,Cases,"6,562",11/3/2014
+19761,Guinea,National,Cases,"1,744",11/4/2014
+19863,Liberia,National,Cases,"6,619",11/4/2014
+20013,Guinea,National,Cases,"1,777",11/5/2014
+20079,Mali,National,Cases,1,11/5/2014
+20211,Guinea,National,Cases,"1,818",11/6/2014
+20313,Liberia,National,Cases,"6,278",11/6/2014
+20397,Sierra Leone,National,Cases,"4,962",11/6/2014
+20553,Guinea,National,Cases,"1,825",11/7/2014
+20655,Liberia,National,Cases,"6,776",11/7/2014
+20739,Sierra Leone,National,Cases,"5,019",11/7/2014
+20895,Guinea,National,Cases,"1,835",11/8/2014
+20997,Liberia,National,Cases,"6,822",11/8/2014
+21081,Sierra Leone,National,Cases,"5,222",11/8/2014
+21237,Guinea,National,Cases,"1,878",11/9/2014
+21327,Sierra Leone,National,Cases,"4,435",11/9/2014
+21483,Guinea,National,Cases,"1,902",11/10/2014
+21573,Sierra Leone,National,Cases,"5,494",11/10/2014
+21729,Guinea,National,Cases,"1,919",11/11/2014
+21819,Sierra Leone,National,Cases,"4,617",11/11/2014
+21975,Guinea,National,Cases,"1,928",11/12/2014
+22065,Mali,National,Cases,3,11/12/2014
+22131,Sierra Leone,National,Cases,"5,682",11/12/2014
+22287,Guinea,National,Cases,"1,924",11/13/2014
+22389,Liberia,National,Cases,"7,009",11/13/2014
+22473,Sierra Leone,National,Cases,"5,789",11/13/2014
+22629,Guinea,National,Cases,"1,936",11/14/2014
+22719,Mali,National,Cases,6,11/14/2014
+22785,Sierra Leone,National,Cases,"5,904",11/14/2014
+22941,Guinea,National,Cases,"1,958",11/15/2014
+23031,Mali,National,Cases,6,11/15/2014
+23097,Sierra Leone,National,Cases,"5,970",11/15/2014
+23199,Liberia,National,Cases,"7,082",11/16/2014
+23283,Sierra Leone,National,Cases,"6,073",11/16/2014
+23439,Guinea,National,Cases,"2,003",11/17/2014
+23529,Sierra Leone,National,Cases,"6,137",11/17/2014
+23685,Guinea,National,Cases,"2,047",11/18/2014
+23787,Liberia,National,Cases,"7,084",11/18/2014
+23871,Sierra Leone,National,Cases,"6,190",11/18/2014
+24027,Guinea,National,Cases,"2,055",11/19/2014
+24129,Liberia,National,Cases,"7,017",11/19/2014
+24213,Mali,National,Cases,6,11/19/2014
+24279,Sierra Leone,National,Cases,"6,261",11/19/2014
+24435,Guinea,National,Cases,"2,065",11/20/2014
+24537,Liberia,National,Cases,"7,161",11/20/2014
+24621,Sierra Leone,National,Cases,"6,391",11/20/2014
+24777,Guinea,National,Cases,"2,094",11/21/2014
+24879,Liberia,National,Cases,"7,165",11/21/2014
+24963,Sierra Leone,National,Cases,"6,460",11/21/2014
+25119,Guinea,National,Cases,"2,112",11/22/2014
+25221,Liberia,National,Cases,"7,168",11/22/2014
+25305,Sierra Leone,National,Cases,"6,535",11/22/2014
+25461,Guinea,National,Cases,"2,134",11/23/2014
+25563,Liberia,National,Cases,"7,196",11/23/2014
+25647,Mali,National,Cases,8,11/23/2014
+25713,Sierra Leone,National,Cases,"6,599",11/23/2014
+25869,Guinea,National,Cases,"2,100",11/24/2014
+25971,Liberia,National,Cases,"7,244",11/24/2014
+26055,Mali,National,Cases,8,11/24/2014
+26121,Sierra Leone,National,Cases,"6,714",11/24/2014
+26277,Guinea,National,Cases,"2,123",11/25/2014
+26367,Mali,National,Cases,8,11/25/2014
+26433,Sierra Leone,National,Cases,"6,802",11/25/2014
+26523,Sierra Leone,National,Cases,"6,911",11/26/2014
+26663,Guinea,National,Cases,"2,133",11/26/2014
+26789,Sierra Leone,National,Cases,"7,021",11/27/2014
+26879,Sierra Leone,National,Cases,"7,109",11/28/2014
+26969,Sierra Leone,National,Cases,"7,226",11/29/2014
+27089,Guinea,National,Cases,"2,160",11/29/2014
+27220,Liberia,National,Cases,"7,254",11/25/2014
+27316,Liberia,National,Cases,"7,278",11/26/2014
+27412,Liberia,National,Cases,"7,278",11/27/2014
+27508,Liberia,National,Cases,"7,635",11/28/2014
+27599,Sierra Leone,National,Cases,"7,312",11/30/2014
+27719,Guinea,National,Cases,"2,145",11/27/2014
+27875,Guinea,National,Cases,"2,155",11/28/2014
+28031,Guinea,National,Cases,"2,164",11/30/2014
+28157,Sierra Leone,National,Cases,"7,420",12/1/2014
+28247,Sierra Leone,National,Cases,"7,551",12/2/2014
+28342,Liberia,National,Cases,"7,650",11/29/2014
+28438,Liberia,National,Cases,"7,653",11/30/2014
+28534,Liberia,National,Cases,"7,675",12/1/2014
+28655,Guinea,National,Cases,"2,186",12/2/2014
+28786,Liberia,National,Cases,"7,690",12/2/2014
+28882,Liberia,National,Cases,"7,719",12/3/2014
+29003,Guinea,National,Cases,"2,192",12/3/2014
+29159,Guinea,National,Cases,"2,255",12/4/2014
+29315,Guinea,National,Cases,"2,269",12/5/2014
+29471,Guinea,National,Cases,"2,283",12/6/2014
+29627,Guinea,National,Cases,"2,292",12/7/2014
+29783,Guinea,National,Cases,"2,339",12/9/2014
+29939,Guinea,National,Cases,"2,394",12/13/2014
+30065,Sierra Leone,National,Cases,"7,676",12/4/2014
+30155,Sierra Leone,National,Cases,"7,754",12/5/2014
+30245,Sierra Leone,National,Cases,"7,798",12/6/2014
+30335,Sierra Leone,National,Cases,"7,897",12/7/2014
+30425,Sierra Leone,National,Cases,"7,955",12/8/2014
+30515,Sierra Leone,National,Cases,"8,014",12/9/2014
+30605,Sierra Leone,National,Cases,"8,069",12/10/2014
+30695,Sierra Leone,National,Cases,"8,152",12/11/2014
+30785,Sierra Leone,National,Cases,"8,201",12/12/2014
+30875,Sierra Leone,National,Cases,"8,273",12/13/2014
+30965,Sierra Leone,National,Cases,"8,356",12/14/2014
+31060,Liberia,National,Cases,"7,719",12/4/2014
+31156,Liberia,National,Cases,"7,731",12/5/2014
+31252,Liberia,National,Cases,"7,735",12/5/2014
+31348,Liberia,National,Cases,"7,765",12/6/2014
+31444,Liberia,National,Cases,"7,786",12/7/2014
+31540,Liberia,National,Cases,"7,797",12/8/2014
+31636,Liberia,National,Cases,"7,812",12/9/2014
+31732,Liberia,National,Cases,"7,819",12/11/2014
+31828,Liberia,National,Cases,"7,828",12/12/2014
+31924,Liberia,National,Cases,"7,835",12/13/2014
+32020,Liberia,National,Cases,"7,819",12/14/2014
+32111,Sierra Leone,National,Cases,"8,428",12/15/2014
+32201,Sierra Leone,National,Cases,"8,488",12/16/2014
+32291,Sierra Leone,National,Cases,"8,759",12/17/2014
+32386,Liberia,National,Cases,"7,823",12/15/2014
+32482,Liberia,National,Cases,"7,822",12/16/2014
+32578,Liberia,National,Cases,"7,815",12/17/2014
+32674,Liberia,National,Cases,"7,830",12/18/2014
+32765,Sierra Leone,National,Cases,"8,832",12/18/2014
+32855,Sierra Leone,National,Cases,"8,880",12/19/2014
+32945,Sierra Leone,National,Cases,"8,939",12/20/2014
+33035,Sierra Leone,National,Cases,"9,004",12/21/2014
+33155,Guinea,National,Cases,"2,430",12/15/2014
+33315,Guinea,National,Cases,"2,453",12/16/2014
+33477,Guinea,National,Cases,"2,482",12/17/2014
+33639,Guinea,National,Cases,"2,502",12/18/2014
+33801,Guinea,National,Cases,"2,557",12/19/2014
+33963,Guinea,National,Cases,"2,571",12/20/2014
+34128,Guinea,National,Cases,"2,597",12/21/2014
+34296,Guinea,National,Cases,"2,606",12/22/2014
+34464,Guinea,National,Cases,"2,624",12/23/2014
+34632,Guinea,National,Cases,"2,630",12/24/2014
+34804,Guinea,National,Cases,"2,659",12/25/2014
+34978,Guinea,National,Cases,"2,670",12/26/2014
+35152,Guinea,National,Cases,"2,695",12/27/2014
+35284,Sierra Leone,National,Cases,"9,079",12/22/2014
+35374,Sierra Leone,National,Cases,"9,155",12/23/2014
+35464,Sierra Leone,National,Cases,"9,203",12/24/2014
+35554,Sierra Leone,National,Cases,"9,276",12/25/2014
+35644,Sierra Leone,National,Cases,"9,339",12/26/2014
+35734,Sierra Leone,National,Cases,"9,409",12/27/2014
+35824,Sierra Leone,National,Cases,"9,446",12/28/2014
+35914,Sierra Leone,National,Cases,"9,546",12/29/2014
+36009,Liberia,National,Cases,"7,852",12/19/2014
+36105,Liberia,National,Cases,"7,862",12/20/2014
+36201,Liberia,National,Cases,"7,876",12/21/2014
+36297,Liberia,National,Cases,"7,922",12/22/2014
+36393,Liberia,National,Cases,"7,938",12/23/2014
+36489,Liberia,National,Cases,"7,977",12/24/2014
+36585,Liberia,National,Cases,"7,987",12/25/2014
+36681,Liberia,National,Cases,"8,002",12/26/2014
+36772,Sierra Leone,National,Cases,"9,605",12/30/2014
+36862,Sierra Leone,National,Cases,"9,633",12/31/2014
+36952,Sierra Leone,National,Cases,"9,683",1/1/2015
+37042,Sierra Leone,National,Cases,"9,719",1/2/2015
+37132,Sierra Leone,National,Cases,"9,772",1/3/2015
+37227,Liberia,National,Cases,"8,012",12/27/2014
+37323,Liberia,National,Cases,"8,017",12/28/2014
+37419,Liberia,National,Cases,"8,044",12/29/2014
+37515,Liberia,National,Cases,"8,087",12/30/2014
+37611,Liberia,National,Cases,"8,115",12/31/2014
+37744,Guinea,National,Cases,"2,706",12/28/2014
+37918,Guinea,National,Cases,"2,730",12/29/2014
+38092,Guinea,National,Cases,"2,739",12/30/2014
+38266,Guinea,National,Cases,"2,729",12/31/2014
+38440,Guinea,National,Cases,"2,750",1/1/2015
+38613,Guinea,National,Cases,"2,760",1/2/2015
+38787,Guinea,National,Cases,"2,769",1/3/2015
+38961,Guinea,National,Cases,"2,775",1/4/2015
+39093,Sierra Leone,National,Cases,"9,780",1/4/2015
+39183,Sierra Leone,National,Cases,"9,890",1/5/2015
+39278,Liberia,National,Cases,"8,128",1/1/2015
+39374,Liberia,National,Cases,"8,153",1/2/2015
+39465,Sierra Leone,National,Cases,"9,930",1/6/2015
+39597,Guinea,National,Cases,"2,776",1/5/2015
+39729,Sierra Leone,National,Cases,"9,973",1/7/2015
+39824,Liberia,National,Cases,"8,162",1/3/2015
+39920,Liberia,National,Cases,"8,170",1/4/2015
+40016,Liberia,National,Cases,"8,218",1/5/2015
+40112,Liberia,National,Cases,"8,256",1/6/2015
+40243,Guinea,National,Cases,"2,793",1/7/2015
+40411,Guinea,National,Cases,"2,797",1/8/2015
+40579,Guinea,National,Cases,"2,798",1/9/2015
+40747,Guinea,National,Cases,"2,799",1/10/2015
+40877,Sierra Leone,National,Cases,"10,009",1/8/2015
+40967,Sierra Leone,National,Cases,"10,056",1/9/2015
+41057,Sierra Leone,National,Cases,"10,094",1/10/2015
+41147,Sierra Leone,National,Cases,"10,124",1/11/2015
+41237,Sierra Leone,National,Cases,"10,150",1/12/2015
+41327,Sierra Leone,National,Cases,"10,186",1/13/2015
+41417,Sierra Leone,National,Cases,"10,216",1/14/2015
+41507,Sierra Leone,National,Cases,"10,251",1/15/2015
+41597,Sierra Leone,National,Cases,"10,286",1/16/2015
+41687,Sierra Leone,National,Cases,"10,306",1/17/2015
+41811,Guinea,National,Cases,"2,806",1/11/2015
+41973,Guinea,National,Cases,"2,825",1/13/2015
+42135,Guinea,National,Cases,"2,822",1/14/2015
+42297,Guinea,National,Cases,"2,865",1/15/2015
+42459,Guinea,National,Cases,"2,868",1/16/2015
+42621,Guinea,National,Cases,"2,873",1/17/2015
+42783,Guinea,National,Cases,"2,871",1/18/2015
+42945,Guinea,National,Cases,"2,873",1/19/2015
+43073,Sierra Leone,National,Cases,"10,340",1/18/2015
+43163,Sierra Leone,National,Cases,"10,362",1/19/2015
+43258,Liberia,National,Cases,"8,316",1/10/2015
+43354,Liberia,National,Cases,"8,322",1/11/2015
+43450,Liberia,National,Cases,"8,353",1/12/2015
+43546,Liberia,National,Cases,"8,377",1/13/2015
+43642,Liberia,National,Cases,"8,396",1/14/2015
+43738,Liberia,National,Cases,"8,423",1/15/2015
+43834,Liberia,National,Cases,"8,435",1/16/2015
+43930,Liberia,National,Cases,"8,447",1/17/2015
+44026,Liberia,National,Cases,"8,462",1/18/2015
+44151,Guinea,National,Cases,"2,873",1/20/2015
+44313,Guinea,National,Cases,"2,881",1/21/2015
+44441,Sierra Leone,National,Cases,"10,400",1/20/2015
+44531,Sierra Leone,National,Cases,"10,417",1/21/2015
+44655,Guinea,National,Cases,"2,893",1/22/2015
+44821,Guinea,National,Cases,"2,896",1/23/2015
+44989,Guinea,National,Cases,"2,909",1/24/2015
+45119,Sierra Leone,National,Cases,"10,457",1/22/2015
+45209,Sierra Leone,National,Cases,"10,471",1/23/2015
+45299,Sierra Leone,National,Cases,"10,491",1/24/2015
+45389,Sierra Leone,National,Cases,"10,518",1/25/2015
+45484,Liberia,National,Cases,"8,486",1/19/2015
+45580,Liberia,National,Cases,"8,507",1/20/2015
+45709,Guinea,National,Cases,"2,917",1/25/2015
+45881,Guinea,National,Cases,"2,921",1/26/2015
+46055,Guinea,National,Cases,"2,920",1/27/2015
+46187,Sierra Leone,National,Cases,"10,537",1/26/2015
+46277,Sierra Leone,National,Cases,"10,561",1/27/2015
+46372,Liberia,National,Cases,"8,704",1/31/2015
+46505,Guinea,National,Cases,"2,959",1/31/2015
+46637,Sierra Leone,National,Cases,"10,637",1/29/2015
+46769,Guinea,National,Cases,"2,926",1/28/2015
+46947,Guinea,National,Cases,"2,928",1/29/2015
+47127,Guinea,National,Cases,"2,932",1/30/2015
+47266,Liberia,National,Cases,"8,592",1/24/2015
+47362,Liberia,National,Cases,"8,603",1/25/2015
+47458,Liberia,National,Cases,"8,649",1/28/2015
+47554,Liberia,National,Cases,"8,666",1/29/2015
+47650,Liberia,National,Cases,"8,704",1/31/2015
+47746,Liberia,National,Cases,"8,720",2/1/2015
+47842,Liberia,National,Cases,"8,738",2/1/2015
+47938,Liberia,National,Cases,"8,812",2/5/2015
+48034,Liberia,National,Cases,"8,852",2/6/2015
+48130,Liberia,National,Cases,"8,859",2/7/2015
+48221,Sierra Leone,National,Cases,"7,552",1/31/2015
+48311,Sierra Leone,National,Cases,"6,248",2/2/2015
+48401,Sierra Leone,National,Cases,"6,261",2/3/2015
+48491,Sierra Leone,National,Cases,"6,286",2/4/2015
+48581,Sierra Leone,National,Cases,"6,306",2/5/2015
+48671,Sierra Leone,National,Cases,"6,353",2/6/2015
+48761,Sierra Leone,National,Cases,"10,905",2/8/2015
+48851,Sierra Leone,National,Cases,"6,388",2/9/2015
+48941,Sierra Leone,National,Cases,"10,987",2/10/2015
+49036,Liberia,National,Cases,"8,864",2/8/2015
+49132,Liberia,National,Cases,"8,905",2/9/2015
+49269,Guinea,National,Cases,"2,959",1/31/2015
+49449,Guinea,National,Cases,"2,975",2/1/2015
+49629,Guinea,National,Cases,"2,986",2/2/2015
+49763,Sierra Leone,National,Cases,"11,010",2/11/2015
+49853,Sierra Leone,National,Cases,"11,025",2/12/2015
+49943,Sierra Leone,National,Cases,"11,059",2/13/2015
+50033,Sierra Leone,National,Cases,"11,074",2/14/2015
+50123,Sierra Leone,National,Cases,"11,103",2/15/2015
+50213,Sierra Leone,National,Cases,"11,117",2/16/2015
+50303,Sierra Leone,National,Cases,"11,155",2/17/2015
+50393,Sierra Leone,National,Cases,"11,183",2/18/2015
+50483,Sierra Leone,National,Cases,"11,200",2/19/2015
+50573,Sierra Leone,National,Cases,"11,227",2/20/2015
+50663,Sierra Leone,National,Cases,"11,253",2/21/2015
+50753,Sierra Leone,National,Cases,"11,276",2/22/2015
+50843,Sierra Leone,National,Cases,"5,637",2/24/2015
+50933,Sierra Leone,National,Cases,"11,316",2/25/2015
+51023,Sierra Leone,National,Cases,"8,402",2/26/2015
+51113,Sierra Leone,National,Cases,"9,477",2/28/2015
+51203,Sierra Leone,National,Cases,"9,491",3/1/2015
+51293,Sierra Leone,National,Cases,"11,440",3/2/2015
+51383,Sierra Leone,National,Cases,"11,452",3/3/2015
+51473,Sierra Leone,National,Cases,"11,471",3/4/2015
+51563,Sierra Leone,National,Cases,"8,521",3/5/2015
+51653,Sierra Leone,National,Cases,"11,534",3/6/2015
+51743,Sierra Leone,National,Cases,"10,624",3/8/2015
+51833,Sierra Leone,National,Cases,"11,619",3/9/2015
+51923,Sierra Leone,National,Cases,"10,344",3/10/2015
+52013,Sierra Leone,National,Cases,"11,651",3/11/2015
+52149,Guinea,National,Cases,"2,988",2/3/2015
+52337,Guinea,National,Cases,"2,993",2/4/2015
+52529,Guinea,National,Cases,"3,005",2/5/2015
+52721,Guinea,National,Cases,"3,024",2/6/2015
+52913,Guinea,National,Cases,"3,042",2/7/2015
+53105,Guinea,National,Cases,"3,081",2/10/2015
+53297,Guinea,National,Cases,"3,083",2/11/2015
+53489,Guinea,National,Cases,"3,090",2/12/2015
+53681,Guinea,National,Cases,"3,099",2/13/2015
+53873,Guinea,National,Cases,"3,101",2/14/2015
+54061,Guinea,National,Cases,"3,113",2/16/2015
+54247,Guinea,National,Cases,"3,115",2/17/2015
+54433,Guinea,National,Cases,"3,120",2/18/2015
+54619,Guinea,National,Cases,"3,131",2/19/2015
+54805,Guinea,National,Cases,"3,149",2/20/2015
+54991,Guinea,National,Cases,"3,155",2/21/2015
+55177,Guinea,National,Cases,"3,155",1/22/2015
+55363,Guinea,National,Cases,"3,175",2/24/2015
+55549,Guinea,National,Cases,"3,190",2/25/2015
+55735,Guinea,National,Cases,"3,197",2/26/2015
+55921,Guinea,National,Cases,"3,197",2/27/2015
+56107,Guinea,National,Cases,"3,205",2/28/2015
+56293,Guinea,National,Cases,"3,219",3/1/2015
+56479,Guinea,National,Cases,"3,230",3/2/2015
+56665,Guinea,National,Cases,"3,237",3/3/2015
+56851,Guinea,National,Cases,"3,248",3/4/2015
+57037,Guinea,National,Cases,"3,259",3/5/2015
+57223,Guinea,National,Cases,"3,263",3/6/2015
+57359,Sierra Leone,National,Cases,"11,670",3/12/2015
+57449,Sierra Leone,National,Cases,"11,681",3/13/2015
+57539,Sierra Leone,National,Cases,"11,696",3/14/2015
+57629,Sierra Leone,National,Cases,"10,438",3/16/2015
+57719,Sierra Leone,National,Cases,"11,743",3/17/2015
+57809,Sierra Leone,National,Cases,"11,753",3/18/2015
+57899,Sierra Leone,National,Cases,"11,776",3/20/2015
+57989,Sierra Leone,National,Cases,"10,746",3/21/2015
+58079,Sierra Leone,National,Cases,"10,759",3/22/2015
+58169,Sierra Leone,National,Cases,"10,771",3/23/2015
+58259,Sierra Leone,National,Cases,"11,828",3/24/2015
+58349,Sierra Leone,National,Cases,"11,840",3/25/2015
+58439,Sierra Leone,National,Cases,"11,863",3/26/2015
+58529,Sierra Leone,National,Cases,"11,881",3/27/2015
+58619,Sierra Leone,National,Cases,"11,890",3/28/2015
